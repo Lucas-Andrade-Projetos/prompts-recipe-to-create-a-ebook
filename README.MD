@@ -21,19 +21,22 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de Ebook sobre o tema de CRUD banco de dados, o publico alvo são desenvolvedores de programas. o título deve ser curto e objetivo, me liste 5 opções.|
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Crie uma introdução de um Ebook com o foco em CRUD, nessa introdução deve se ter uma motivação para ler o conteúdo e uma explicação sobre o que é o CRUD. {REGRAS} use uma linguagem simples e texto enxulto.|
+| conteúdo | Explique o Read e como utiliza-lo com exemplos de Código. Escreva no fim uma conclusão sobre o tema {REGRAS} use uma linguagem simples e texto enxulto.|
+| conteúdo | Explique o UPDATE e como utiliza-lo com exemplos de Código. Escreva no fim uma conclusão sobre o tema {REGRAS} use uma linguagem simples e texto enxulto.|
+| conteúdo | Explique o DELETE e como utiliza-lo com exemplos de Código. Escreva no fim uma conclusão sobre o tema {REGRAS} use uma linguagem simples e texto enxulto.|
 
 
-Midjourney：
+SquaadAI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | a black background with green letters falling with a matrix aesthetic |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via SquaadAI
 
 ## 📚 Materiais
 
